@@ -1,0 +1,29 @@
+a{
+    color: white;
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+}
+a:hover{
+    color: black;
+}
+#one{
+    color: black;
+    transition: color 0.2s ease-in-out;
+}
+#two{
+    color: black;
+    transition: color 0.2s ease-in-out;
+}
+#three{
+    color: black;
+    transition: color 0.2s ease-in-out;
+}
+one:hover{
+    color: red;
+}
+two:hover{
+    color: white;
+}
+three:hover{
+    color: white;
+}
